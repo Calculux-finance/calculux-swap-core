@@ -1,6 +1,6 @@
-# WakandaSwap Factory
+# Calculux Factory
 
-In-depth documentation on PancakeSwap is available at [docs.wakandaswap.net](https://docs.wakandaswap.net/).
+In-depth documentation on CalculuxSwap is available at [docs.calculux.finance](https://docs.calculux.finance/).
 
 # Local Development
 
